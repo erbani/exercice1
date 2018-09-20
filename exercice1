@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>exercice1</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+<H1> exercice1 </H1>
+ <p> é voilà mon premier exercice?! </p>
+</body>
+</html>
